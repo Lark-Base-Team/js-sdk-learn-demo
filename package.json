@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
+  "output": "dist",
   "scripts": {
     "start": "npm run dev",
     "dev": "vite",
