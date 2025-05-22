@@ -1,7 +1,6 @@
-# Base JS SDK DEMO
-## node: 16+
-1. npm install -g yarn
-2. yarn
-3. yarn run start
+# 已经废弃，请查看
+[HTML模板](https://github.com/Lark-Base-Team/html-template)
 
-Now, you can see the output URL in the console, please click, then open the page, and copy the URL
+[React模板](https://github.com/Lark-Base-Team/react-template)
+
+[Vue模板](https://github.com/Lark-Base-Team/vue-template)
